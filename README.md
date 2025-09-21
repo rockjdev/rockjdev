@@ -9,8 +9,6 @@
 🤝 Let's build something extraordinary together!
 
 
-<img align="left" alt="GIF" src="techstack.gif" width="260px">
-
 ### &nbsp; 🛠️ Technical Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Redux, Next.js, Vue, Nuxt.js, Angular, React Native, Tailwind CSS, AntD, Material UI  
