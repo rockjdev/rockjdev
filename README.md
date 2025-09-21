@@ -1,87 +1,174 @@
-# Hi, I'm Rocky Joseph
+# Rocky Joseph
 
 ### A Senior Software Engineer
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sachin-source&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-source" />
+    <img src="https://komarev.com/ghpvc/?username=thomasync&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-source" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sachin-source&column=-1" alt="sachin-source" />
+    <img src="https://github-profile-trophy.vercel.app/?username=thomasync&column=-1" alt="sachin-source" />
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-source&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-source&hide=scss&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-source&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j&exclude_days=Sun" alt="Streak Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=benmarwick&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmarwick&hide=scss&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benmarwick&theme=dark&background=22272e&date_format=%5BY%20%5DM%20j&exclude_days=Sun" alt="Streak Stats" height="200"/>
 </p>
 
 <!-- --- -->
 
 ## Skills
 
+<table align="center">
+<tr>
+<td align="center" valign="top" width="140px">
+
 ### Programming Languages
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> TypeScript |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> PHP
-</p>
+
+<picture>
+	<img alt="JavaScript" title="JavaScript" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</picture>
+<picture>
+	<img alt="TypeScript" title="TypeScript" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</picture>
+<picture>
+	<img alt="Python" title="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</picture>
+<picture>
+	<img alt="PHP" title="PHP" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</picture>
+</td>
+
+<td align="center" valign="top" width="140px">
 
 ### Frontend
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> React |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> Redux |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> Next.js |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/> Vue |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/> Nuxt.js |
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> Angular |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/> React Native |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40"/> Tailwind CSS |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> Material UI
-</p>
+
+<picture>
+	<img alt="React" title="React" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="Redux" title="Redux" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+</picture>
+<picture>
+	<img alt="Next.js" title="Next.js" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+</picture>
+<picture>
+	<img alt="Vue" title="Vue" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="Angular" title="Angular" width="50px" height="50px" src="https://angular.io/assets/images/logos/angular/angular.svg">
+</picture>
+<picture>
+	<img alt="Tailwind CSS" title="Tailwind CSS" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="Material UI" title="Material UI" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+</picture>
+</td>
+
+<td align="center" valign="top" width="140px">
 
 ### Backend
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> Node.js |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> Express.js |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> NestJS |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> Django |
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> Flask |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> Laravel |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> FastAPI |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> GraphQL
-</p>
+
+<picture>
+	<img alt="Node.js" title="Node.js" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="Express.js" title="Express.js" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="NestJS" title="NestJS" width="50px" height="50px" src="https://nestjs.com/img/logo-small.svg">
+</picture>
+<picture>
+	<img alt="Django" title="Django" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+</picture>
+<picture>
+	<img alt="Flask" title="Flask" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+</picture>
+<picture>
+	<img alt="Laravel" title="Laravel" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+</picture>
+<picture>
+	<img alt="FastAPI" title="FastAPI" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+</picture>
+<picture>
+	<img alt="GraphQL" title="GraphQL" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
+</picture>
+</td>
+
+<td align="center" valign="top" width="140px">
 
 ### Database
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> PostgreSQL |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySQL |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MongoDB |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> Redis
-</p>
+
+<picture>
+	<img alt="PostgreSQL" title="PostgreSQL" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="MySQL" title="MySQL" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="MongoDB" title="MongoDB" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="Redis" title="Redis" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg">
+</picture>
+</td>
+
+<td align="center" valign="top" width="140px">
 
 ### DevOps & Cloud
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> Docker |
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> Kubernetes |
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> Jenkins |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> GCP |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> Azure
-</p>
+
+<picture>
+	<img alt="Docker" title="Docker" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="Kubernetes" title="Kubernetes" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+</picture>
+<picture>
+	<img alt="Jenkins" title="Jenkins" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
+</picture>
+<picture>
+	<img alt="AWS" title="AWS" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</picture>
+<picture>
+	<img alt="GCP" title="Google Cloud Platform" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+</picture>
+<picture>
+	<img alt="Azure" title="Azure" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+</picture>
+</td>
+
+<td align="center" valign="top" width="140px">
 
 ### Testing & Tools
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> Jest |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="cypress" width="40" height="40"/> Cypress |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> Playwright |
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> Jira |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> Git
-</p>
+
+<picture>
+	<img alt="Jest" title="Jest" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+</picture>
+<picture>
+	<img alt="Cypress" title="Cypress" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
+</picture>
+<picture>
+	<img alt="Playwright" title="Playwright" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
+</picture>
+<picture>
+	<img alt="Postman" title="Postman" width="50px" height="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+</picture>
+<picture>
+	<img alt="Jira" title="Jira" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+</picture>
+<picture>
+	<img alt="Git" title="Git" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</picture>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <!-- --- -->
 
