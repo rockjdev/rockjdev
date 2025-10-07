@@ -4,7 +4,7 @@
 
 ### 🧐 More About Me:
 
-🌟 Senior Software Engineer with 15+ years of experience, leading the design and implementation of robust web applications.  
+🌟 Senior Software Engineer with 12+ years of experience, leading the design and implementation of robust web applications.  
 ⚡ Successfully collaborated with cross-functional teams on 20+ projects, aligning engineering solutions with business goals.  
 🤝 Proficient at understanding client requirements, resolving production issues, and implementing comprehensive testing!
 
