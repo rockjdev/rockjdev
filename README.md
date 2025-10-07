@@ -5,14 +5,14 @@
 ### 🧐 More About Me:
 
 🌟 Senior Software Engineer with 15+ years of experience, leading the design and implementation of robust web applications.  
-⚡ Successfully collaborated with cross-functional teams on 30+ projects, aligning engineering solutions with business goals.  
+⚡ Successfully collaborated with cross-functional teams on 20+ projects, aligning engineering solutions with business goals.  
 🤝 Proficient at understanding client requirements, resolving production issues, and implementing comprehensive testing!
 
 
 ### &nbsp; 🛠️ Technical Skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Redux, Next.js, Vue, Nuxt.js, Angular, React Native, Tailwind CSS, AntD, Material UI  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, Express.js, NestJS, Django, Laravel, FastAPI, GraphQL, RESTful APIs, Stripe API, PayPal API, Apple Pay API  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, Express.js, NestJS, Django, FastAPI, GraphQL, RESTful APIs, Stripe API, PayPal API, Apple Pay API  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: PostgreSQL, MySQL, MongoDB, Redis  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: JavaScript, TypeScript, Python, PHP  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ☁️ **DevOps**: Docker, Kubernetes, Jenkins, AWS, GCP, Azure  
