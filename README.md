@@ -11,7 +11,7 @@
 
 ### &nbsp; 🛠️ Technical Skills
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Redux, Next.js, Vue, Nuxt.js, Angular, React Native, Tailwind CSS, AntD, Material UI  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Redux, Next.js, Vue, Nuxt.js, Angular, Tailwind CSS, AntD, Material UI  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, Express.js, NestJS, Django, FastAPI, GraphQL, RESTful APIs, Stripe API, PayPal API, Apple Pay API  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: PostgreSQL, MySQL, MongoDB, Redis  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: JavaScript, TypeScript, Python, PHP  
